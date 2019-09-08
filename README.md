@@ -1,28 +1,26 @@
-#  This is a large heading
+#  Meghan Caporali
 
-## This is a smaller heading
+## Location
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I currently live in sunny Los Angeles, but I'm originally from Endicot, a small town in Upstate New York.
 
-- This is
-- an unordered
-- list
+## Reading
 
-1. This is
-2. an ordered
-3. list
+My three favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Frankenstein* by Mary Shelley
+- *The Lifted Veil* by George Eliot
+- *The Complete Sherlock Holmes* by Sir Arthur Conan Doyle
 
-```
-This is
-a block
-of code
-```
+## Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Four of my favorite restaurants are:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Fat Dog in North Hollywood
+2. The Stinking Rose in Beverly Hills
+3. Salsa & Beer in North Hollywood
+4. Harvest Moon in Valley Vilage
+
+## Contact
+
+For thos reaching out in a professional capacity, please message me via [LinkedIn](https://www.linkedin.com/in/meghanecaporali/).
